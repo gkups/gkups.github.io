@@ -168,6 +168,20 @@
     
 }
 
+@media (max-width: 445px) {
+    
+    #featured {
+        height: 660px !important;
+    }
+    
+    #featured img {
+        height: 360px !important;
+        margin-top: 310px !important;
+        padding-bottom: 0px;
+    }
+    
+}
+
 .ml-auto, .mx-auto {
     padding-top: 15px;
     text-align: right;
