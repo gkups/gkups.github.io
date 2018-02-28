@@ -158,12 +158,12 @@
     }
     
     #featured {
-        height: 660px !important;
+        height: 700px !important;
     }
     
     #featured img {
-        margin-top: 240px !important;
-        padding-bottom: 30px;
+        margin-top: 280px !important;
+        padding-bottom: 30px !important;
     }
     
 }
